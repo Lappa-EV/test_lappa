@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я <a href="https://daniilshat.ru/" target="_blank">Лаппа Екатерина Васильевна</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Привет, я Лаппа Екатерина Васильевна<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
 ##### У меня есть несколько увлечений :
