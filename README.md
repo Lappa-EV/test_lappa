@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я <font color="green">Лаппа Екатерина Васильевна</font><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Привет, я <a href=#, style="color:green">Лаппа Екатерина Васильевна</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ##### У меня есть несколько увлечений :
 
