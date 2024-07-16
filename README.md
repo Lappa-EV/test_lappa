@@ -1,8 +1,7 @@
-<h1 align="center">Привет, я <span  style="color:green;">Лаппа Екатерина Васильевна</span><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Привет, я <font color="green">Лаппа Екатерина Васильевна</font><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ##### У меня есть несколько увлечений :
 
 > * Мне интересна профессия Data engineer, активно ее изучаю
 > * Нравится заниматься трейдингом (торгую с 2019 года), использую технический анализ
 > * Люблю тяжелую атлетику, иногда учавствую в соревнованиях
-
