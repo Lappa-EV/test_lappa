@@ -1,2 +1,10 @@
 <h1 align="center">Привет, я <a href="https://daniilshat.ru/" target="_blank">Лаппа Екатерина Васильевна</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+ интересуюсь+ профессией+ Data engineer   )](https://git.io/typing-svg)
+
+---
+
+##### У меня есть несколько увлечений :
+
+> * Мне интересна профессия Data engineer, активно ее изучаю
+> * Нравится заниматься трейдингом (торгую с 2019 года), использую технический анализ
+> * Люблю тяжелую атлетику, иногда учавствую в соревнованиях
+
